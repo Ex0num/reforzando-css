@@ -1,0 +1,70 @@
+body
+{
+    background-image: url("./assets/background-animado.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+#contenedor-de-titulo-bienvenida
+{
+    color: white;
+    background-color: #141414cc;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "Orbitron", sans-serif;
+}
+
+#apartado-introduccion,
+#apartado-tecnologias,
+#apartado-proyectos,
+#apartado-experiencia
+{
+    background-color: #141414cc;
+    color: white;
+    font-family: "Quantico", sans-serif;
+    padding: 30px;
+    margin-top: 25px;
+}
+
+#listado-atributos
+{
+    padding-left: 18px;
+}
+
+.icono-empresa
+{
+    width: 80px;
+    height: 25px;
+    border-radius: 6px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.descripcion-experiencia
+{
+    margin-top: 0px;
+}
+
+.icono-apartado,
+.icono-tecnologia
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+
+.contenedor-proyecto
+{
+    text-align: center;
+}
+
+.img-proyecto
+{
+    width: 300px;
+    margin: 15px;
+    border-radius: 12px;
+}
